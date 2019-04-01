@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Another repository
+This is making edits to the new repository
